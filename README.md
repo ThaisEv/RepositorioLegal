@@ -1,2 +1,2 @@
 # RepositorioLegal
-Repositório criado para fins de estudo.
+Repositório criado para fins de estudo de versionadores.
